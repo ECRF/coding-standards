@@ -40,4 +40,4 @@ This checklist is loosely based on [FogCreek's code review checklist][fogcreek].
 
 ---
 [fogcreek]: http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/
-[standards]: https://github.com/TechArk/coding-standards/blob/master/csharp_coding_standards.md
+[standards]: https://github.com/ECRF/coding-standards/blob/master/csharp_coding_standards.md

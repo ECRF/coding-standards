@@ -6,7 +6,7 @@ Last Modified: 2016-10-07
 
 ## Summary
 
-This document describes the conventions and best practices applicable to TechArk project repositories. They are roughly based on [Fedora's Git Guidelines and Best Practices][fedoragit].
+This document describes the conventions and best practices applicable to ECRF project repositories. They are roughly based on [Fedora's Git Guidelines and Best Practices][fedoragit].
 
 ### Table of Contents
 
@@ -19,7 +19,7 @@ This document describes the conventions and best practices applicable to TechArk
 
 ## Git Daily Workflow
 
-TechArk does [Trunk Based Development (TBD)][tbd] (aka mainline development)
+ECRF does [Trunk Based Development (TBD)][tbd] (aka mainline development)
 Assuming you have the appropriate repo cloned to your local workstation and have checked out the master branch:
 
 ### Visual Studio Workflow
@@ -86,7 +86,7 @@ Use the present tense when writing messages, i.e. "Fix bug, apply patch", not "F
 		Fix for the following bug: Duplicate SLAs are being generated for 
 		issues, which is causing an error with the API.
 
-		https://support.gotechark.com/issue/78494
+		https://support.ecrfab.com/issue/78494
 
 * linked to a TFS issue:
 
@@ -117,7 +117,7 @@ Use the present tense when writing messages, i.e. "Fix bug, apply patch", not "F
 
 Two things you should never do in git:
 - NEVER force a push
-	- If you find yourself in a situation where your changes can't be pushed upstream, something is wrong. Contact another TechArk developer for help tracking down the problem.
+	- If you find yourself in a situation where your changes can't be pushed upstream, something is wrong. Contact another ECRF developer for help tracking down the problem.
 - NEVER rebase a branch that you pushed, or that you pulled from another person. 
 	- Rebasing published branches can lead to duplicate commits in the shared repository
 

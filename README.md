@@ -4,11 +4,11 @@ Coding Standards
 Date Created: 2016-10-07  
 Last Modified: 2014-10-07 
 
-These are the general coding standards for [TechArk][techark] Projects and any other resources which may be helpful in that respect.
+These are the general coding standards for [ECRF][ecrf] Projects and any other resources which may be helpful in that respect.
 
 Currently they fall into 8 categories:
 
-1. [TechArk Software Development Fundamentals](techark_software_development_fundamentals.md)
+1. [ECRF Software Development Fundamentals](ecrf_software_development_fundamentals.md)
 2. [Git Guidelines and Best Practices](git_guidelines.md)
 3. [C\# Coding Standards](csharp_coding_standards.md)
 4. [HTML5/CSS3](html_css_coding_standards.md)
@@ -21,7 +21,7 @@ Currently they fall into 8 categories:
 
 Installation is as easy as checking out the repository to the correct location
 
-	git clone https://github.com/TechArk/coding-standards.git
+	git clone https://github.com/ECRF/coding-standards.git
 
 ## Terminology & Definitions
 
@@ -34,4 +34,4 @@ Installation is as easy as checking out the repository to the correct location
 | Identifier | A developer defined token used to uniquely name a declared object or object instance. Example: `public class MyClassNameIdentifier { … }` |
 
 
-[techark]: http://www.gotechark.com
+[ecrf]: http://www.ecrfab.com/

@@ -6,7 +6,7 @@ Last Modified: 2015-05-04
 
 ## Summary
 
-This document describes the conventions and best practices applicable to TechArk project repositories. They are roughly based on [Roy Osherove's naming standards for unit tests][namingstandards].
+This document describes the conventions and best practices applicable to ECRF project repositories. They are roughly based on [Roy Osherove's naming standards for unit tests][namingstandards].
 
 ### Table of Contents
 
@@ -23,10 +23,10 @@ Unit test projects typically map one-to-one with a class library project. Unit t
 Example:
 
 If your class library is:
-`TechArk.Domain.Common`
+`ECRF.Domain.Common`
 
 The unit test library that tests it will be:
-`TechArk.Domain.Common.Tests`
+`ECRF.Domain.Common.Tests`
 
 
 ## Naming Unit Test Classes
@@ -152,11 +152,11 @@ Example:
 
 If your class library is:
     
-    TechArk.Domain.Common
+    ECRF.Domain.Common
 
 The integration test library that tests it will be:
     
-    TechArk.Domain.Common.Integration
+    ECRF.Domain.Common.Integration
 
 
 ## Best Practices

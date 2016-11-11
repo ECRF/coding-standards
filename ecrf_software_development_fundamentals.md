@@ -1,17 +1,17 @@
-# TechArk Software Development Fundamentals
+# ECRF Software Development Fundamentals
 
-Author: [Ken Taylor](mailto:ktaylor@gotechark.com?subject=TechArk%20Software%20Development%20Fundamentals)  
+Author: [Ken Taylor](mailto:ktaylor@goECRF.com?subject=ECRF%20Software%20Development%20Fundamentals)  
 Date Created: 2016-10-07  
 Last Updated: 2016-10-07  
 
-The following four (4) practices are fundamental to success as professional software engineers and as such are central to our software development efforts at TechArk.
+The following four (4) practices are fundamental to success as professional software engineers and as such are central to our software development efforts at ECRF.
 
 ## 1) We write "Clean Code"
 
 > "Clean code is simple and direct. Clean code reads like well-written prose. Clean code never obscures the designer's intent but rather is full of crisp abstractions and straightforward lines of control."
 > -Grady Booch
 
-Because we recognize that software can be expensive to maintain when it is not well written: _Software written for ANY development project at TechArk must be written using the [clean coding fundamentals][cleancode]._ Much of the principles outlined below can be found in [Robert C. Martin's][unclebob] (AKA Uncle Bob) [Clean Code: A Handbook of Agile Software Craftsmanship book][ccbook].
+Because we recognize that software can be expensive to maintain when it is not well written: _Software written for ANY development project at ECRF must be written using the [clean coding fundamentals][cleancode]._ Much of the principles outlined below can be found in [Robert C. Martin's][unclebob] (AKA Uncle Bob) [Clean Code: A Handbook of Agile Software Craftsmanship book][ccbook].
 
 These fundamentals include (_but are not limited to_):
 
@@ -79,7 +79,7 @@ The code should be neat and uniform. Code formatting is about communication!
 
 ## 2) We adhere to coding standards
 
-TechArk has defined coding standards for the languages we commonly use. Follow them.
+ECRF has defined coding standards for the languages we commonly use. Follow them.
 
 * [C# coding standards](csharp_coding_standards.md)
 * [HTML/CSS coding standards](html_css_coding_standards.md)
